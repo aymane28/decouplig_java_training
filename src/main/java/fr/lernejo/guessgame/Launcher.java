@@ -29,7 +29,7 @@ public class Launcher {
 
             SecureRandom random = new SecureRandom();
             numberToGuess= random.nextInt(100);
-            String numberToGuessTest;
+
             maxLoop=1000;
             sim.initialize(numberToGuess);
             sim.loopUntilPlayerSucceed(maxLoop);

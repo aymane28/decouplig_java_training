@@ -40,8 +40,8 @@ public class Simulation {
             return false;
         }
     }*/
-    private boolean nextRound() {
-    long guess = player.askNextGuess();
+    private boolean nextRound(long guess ) {
+    // guess = player.askNextGuess();
     logger.log("le nombre choisi est :" + guess);
     if(guess==numberToGuess) {
         return true;
@@ -50,26 +50,18 @@ public class Simulation {
     return false;
 
     }
-
 }
 
+
     public void loopUntilPlayerSucceed(long maxLoop){
+        long guess;
         int counter=0;
         long startTime=System.currentTimeMillis();
         do{
+           guess = player.askNextGuess();
             counter++;
-        } while(counter<maxLoop && !nextRound());
+        } while(counter<maxLoop && !nextRound(guess));
         logger.log("well done");
-/*
-        long timestamp=System.currentTimeMillis();
-
-        SimpleDateFormat simpleDateFormat= new SimpleDateFormat("mm:ss.SSS");
-        Date date= new Date(timestamp);
-
-        String time = simpleDateFormat.format(date.getTime());
-        logger.log(time);
-        */
-
 
         long endTime=System.currentTimeMillis();
         long duration=(endTime - startTime);
