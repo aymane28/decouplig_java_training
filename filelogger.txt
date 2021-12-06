@@ -1,133 +1,659 @@
-2021-12-06 17:31:33.244 simulation le nombre choisi est :0
-2021-12-06 17:31:33.268 player number is lower
-2021-12-06 17:31:33.268 simulation le nombre choisi est :-4611686018427387904
-2021-12-06 17:31:33.269 player number is lower
-2021-12-06 17:31:33.270 simulation le nombre choisi est :2305843009213693952
-2021-12-06 17:31:33.270 player number is greater
-2021-12-06 17:31:33.271 simulation le nombre choisi est :-1152921504606846976
-2021-12-06 17:31:33.271 player number is lower
-2021-12-06 17:31:33.271 simulation le nombre choisi est :576460752303423488
-2021-12-06 17:31:33.272 player number is greater
-2021-12-06 17:31:33.272 simulation le nombre choisi est :-288230376151711744
-2021-12-06 17:31:33.273 player number is lower
-2021-12-06 17:31:33.273 simulation le nombre choisi est :144115188075855872
-2021-12-06 17:31:33.274 player number is greater
-2021-12-06 17:31:33.274 simulation le nombre choisi est :-72057594037927936
-2021-12-06 17:31:33.274 player number is lower
-2021-12-06 17:31:33.275 simulation le nombre choisi est :36028797018963968
-2021-12-06 17:31:33.275 player number is greater
-2021-12-06 17:31:33.275 simulation le nombre choisi est :-18014398509481984
-2021-12-06 17:31:33.276 player number is lower
-2021-12-06 17:31:33.276 simulation le nombre choisi est :9007199254740992
-2021-12-06 17:31:33.277 player number is greater
-2021-12-06 17:31:33.277 simulation le nombre choisi est :-4503599627370496
-2021-12-06 17:31:33.277 player number is lower
-2021-12-06 17:31:33.278 simulation le nombre choisi est :2251799813685248
-2021-12-06 17:31:33.278 player number is greater
-2021-12-06 17:31:33.278 simulation le nombre choisi est :-1125899906842624
-2021-12-06 17:31:33.279 player number is lower
-2021-12-06 17:31:33.279 simulation le nombre choisi est :562949953421312
-2021-12-06 17:31:33.279 player number is greater
-2021-12-06 17:31:33.280 simulation le nombre choisi est :-281474976710656
-2021-12-06 17:31:33.280 player number is lower
-2021-12-06 17:31:33.280 simulation le nombre choisi est :140737488355328
-2021-12-06 17:31:33.281 player number is greater
-2021-12-06 17:31:33.281 simulation le nombre choisi est :-70368744177664
-2021-12-06 17:31:33.281 player number is lower
-2021-12-06 17:31:33.282 simulation le nombre choisi est :35184372088832
-2021-12-06 17:31:33.282 player number is greater
-2021-12-06 17:31:33.282 simulation le nombre choisi est :-17592186044416
-2021-12-06 17:31:33.283 player number is lower
-2021-12-06 17:31:33.283 simulation le nombre choisi est :8796093022208
-2021-12-06 17:31:33.284 player number is greater
-2021-12-06 17:31:33.284 simulation le nombre choisi est :-4398046511104
-2021-12-06 17:31:33.284 player number is lower
-2021-12-06 17:31:33.285 simulation le nombre choisi est :2199023255552
-2021-12-06 17:31:33.285 player number is greater
-2021-12-06 17:31:33.286 simulation le nombre choisi est :-1099511627776
-2021-12-06 17:31:33.286 player number is lower
-2021-12-06 17:31:33.286 simulation le nombre choisi est :549755813888
-2021-12-06 17:31:33.287 player number is greater
-2021-12-06 17:31:33.287 simulation le nombre choisi est :-274877906944
-2021-12-06 17:31:33.287 player number is lower
-2021-12-06 17:31:33.288 simulation le nombre choisi est :137438953472
-2021-12-06 17:31:33.288 player number is greater
-2021-12-06 17:31:33.289 simulation le nombre choisi est :-68719476736
-2021-12-06 17:31:33.290 player number is lower
-2021-12-06 17:31:33.290 simulation le nombre choisi est :34359738368
-2021-12-06 17:31:33.291 player number is greater
-2021-12-06 17:31:33.291 simulation le nombre choisi est :-17179869184
-2021-12-06 17:31:33.292 player number is lower
-2021-12-06 17:31:33.292 simulation le nombre choisi est :8589934592
-2021-12-06 17:31:33.292 player number is greater
-2021-12-06 17:31:33.293 simulation le nombre choisi est :-4294967296
-2021-12-06 17:31:33.293 player number is lower
-2021-12-06 17:31:33.293 simulation le nombre choisi est :2147483648
-2021-12-06 17:31:33.294 player number is greater
-2021-12-06 17:31:33.294 simulation le nombre choisi est :-1073741824
-2021-12-06 17:31:33.294 player number is lower
-2021-12-06 17:31:33.295 simulation le nombre choisi est :536870912
-2021-12-06 17:31:33.295 player number is greater
-2021-12-06 17:31:33.296 simulation le nombre choisi est :-268435456
-2021-12-06 17:31:33.296 player number is lower
-2021-12-06 17:31:33.296 simulation le nombre choisi est :134217728
-2021-12-06 17:31:33.297 player number is greater
-2021-12-06 17:31:33.297 simulation le nombre choisi est :-67108864
-2021-12-06 17:31:33.297 player number is lower
-2021-12-06 17:31:33.297 simulation le nombre choisi est :33554432
-2021-12-06 17:31:33.298 player number is greater
-2021-12-06 17:31:33.298 simulation le nombre choisi est :-16777216
-2021-12-06 17:31:33.298 player number is lower
-2021-12-06 17:31:33.299 simulation le nombre choisi est :8388608
-2021-12-06 17:31:33.299 player number is greater
-2021-12-06 17:31:33.299 simulation le nombre choisi est :-4194304
-2021-12-06 17:31:33.299 player number is lower
-2021-12-06 17:31:33.300 simulation le nombre choisi est :2097152
-2021-12-06 17:31:33.300 player number is greater
-2021-12-06 17:31:33.300 simulation le nombre choisi est :-1048576
-2021-12-06 17:31:33.300 player number is lower
-2021-12-06 17:31:33.301 simulation le nombre choisi est :524288
-2021-12-06 17:31:33.301 player number is greater
-2021-12-06 17:31:33.301 simulation le nombre choisi est :-262144
-2021-12-06 17:31:33.302 player number is lower
-2021-12-06 17:31:33.302 simulation le nombre choisi est :131072
-2021-12-06 17:31:33.302 player number is greater
-2021-12-06 17:31:33.303 simulation le nombre choisi est :-65536
-2021-12-06 17:31:33.303 player number is lower
-2021-12-06 17:31:33.304 simulation le nombre choisi est :32768
-2021-12-06 17:31:33.304 player number is greater
-2021-12-06 17:31:33.305 simulation le nombre choisi est :-16384
-2021-12-06 17:31:33.305 player number is lower
-2021-12-06 17:31:33.306 simulation le nombre choisi est :8192
-2021-12-06 17:31:33.306 player number is greater
-2021-12-06 17:31:33.306 simulation le nombre choisi est :-4096
-2021-12-06 17:31:33.308 player number is lower
-2021-12-06 17:31:33.308 simulation le nombre choisi est :2048
-2021-12-06 17:31:33.309 player number is greater
-2021-12-06 17:31:33.309 simulation le nombre choisi est :-1024
-2021-12-06 17:31:33.310 player number is lower
-2021-12-06 17:31:33.310 simulation le nombre choisi est :512
-2021-12-06 17:31:33.310 player number is greater
-2021-12-06 17:31:33.311 simulation le nombre choisi est :-256
-2021-12-06 17:31:33.311 player number is lower
-2021-12-06 17:31:33.312 simulation le nombre choisi est :128
-2021-12-06 17:31:33.312 player number is greater
-2021-12-06 17:31:33.312 simulation le nombre choisi est :-64
-2021-12-06 17:31:33.313 player number is lower
-2021-12-06 17:31:33.313 simulation le nombre choisi est :32
-2021-12-06 17:31:33.313 player number is lower
-2021-12-06 17:31:33.314 simulation le nombre choisi est :80
-2021-12-06 17:31:33.315 player number is greater
-2021-12-06 17:31:33.315 simulation le nombre choisi est :56
-2021-12-06 17:31:33.316 player number is greater
-2021-12-06 17:31:33.316 simulation le nombre choisi est :44
-2021-12-06 17:31:33.316 player number is lower
-2021-12-06 17:31:33.317 simulation le nombre choisi est :50
-2021-12-06 17:31:33.317 player number is lower
-2021-12-06 17:31:33.318 simulation le nombre choisi est :53
-2021-12-06 17:31:33.318 player number is greater
-2021-12-06 17:31:33.318 simulation le nombre choisi est :51
-2021-12-06 17:31:33.319 player number is lower
-2021-12-06 17:31:33.319 simulation le nombre choisi est :52
-2021-12-06 17:31:33.319 simulation well done
-2021-12-06 17:31:33.364 simulation 00:00.095
+le nombre choisi est :0
+number is lower
+le nombre choisi est :-4611686018427387904
+number is lower
+le nombre choisi est :2305843009213693952
+number is greater
+le nombre choisi est :-1152921504606846976
+number is lower
+le nombre choisi est :576460752303423488
+number is greater
+le nombre choisi est :-288230376151711744
+number is lower
+le nombre choisi est :144115188075855872
+number is greater
+le nombre choisi est :-72057594037927936
+number is lower
+le nombre choisi est :36028797018963968
+number is greater
+le nombre choisi est :-18014398509481984
+number is lower
+le nombre choisi est :9007199254740992
+number is greater
+le nombre choisi est :-4503599627370496
+number is lower
+le nombre choisi est :2251799813685248
+number is greater
+le nombre choisi est :-1125899906842624
+number is lower
+le nombre choisi est :562949953421312
+number is greater
+le nombre choisi est :-281474976710656
+number is lower
+le nombre choisi est :140737488355328
+number is greater
+le nombre choisi est :-70368744177664
+number is lower
+le nombre choisi est :35184372088832
+number is greater
+le nombre choisi est :-17592186044416
+number is lower
+le nombre choisi est :8796093022208
+number is greater
+le nombre choisi est :-4398046511104
+number is lower
+le nombre choisi est :2199023255552
+number is greater
+le nombre choisi est :-1099511627776
+number is lower
+le nombre choisi est :549755813888
+number is greater
+le nombre choisi est :-274877906944
+number is lower
+le nombre choisi est :137438953472
+number is greater
+le nombre choisi est :-68719476736
+number is lower
+le nombre choisi est :34359738368
+number is greater
+le nombre choisi est :-17179869184
+number is lower
+le nombre choisi est :8589934592
+number is greater
+le nombre choisi est :-4294967296
+number is lower
+le nombre choisi est :2147483648
+number is greater
+le nombre choisi est :-1073741824
+number is lower
+le nombre choisi est :536870912
+number is greater
+le nombre choisi est :-268435456
+number is lower
+le nombre choisi est :134217728
+number is greater
+le nombre choisi est :-67108864
+number is lower
+le nombre choisi est :33554432
+number is greater
+le nombre choisi est :-16777216
+number is lower
+le nombre choisi est :8388608
+number is greater
+le nombre choisi est :-4194304
+number is lower
+le nombre choisi est :2097152
+number is greater
+le nombre choisi est :-1048576
+number is lower
+le nombre choisi est :524288
+number is greater
+le nombre choisi est :-262144
+number is lower
+le nombre choisi est :131072
+number is greater
+le nombre choisi est :-65536
+number is lower
+le nombre choisi est :32768
+number is greater
+le nombre choisi est :-16384
+number is lower
+le nombre choisi est :8192
+number is greater
+le nombre choisi est :-4096
+number is lower
+le nombre choisi est :2048
+number is greater
+le nombre choisi est :-1024
+number is lower
+le nombre choisi est :512
+number is greater
+le nombre choisi est :-256
+number is lower
+le nombre choisi est :128
+number is greater
+le nombre choisi est :-64
+number is lower
+le nombre choisi est :32
+number is greater
+le nombre choisi est :-16
+number is lower
+le nombre choisi est :8
+number is lower
+le nombre choisi est :20
+number is lower
+le nombre choisi est :26
+number is lower
+le nombre choisi est :29
+number is greater
+le nombre choisi est :27
+well done
+00:00.028
+2021-12-06 18:21:47.829 simulation le nombre choisi est :0
+2021-12-06 18:21:47.834 player number is lower
+2021-12-06 18:21:47.834 simulation le nombre choisi est :-4611686018427387904
+2021-12-06 18:21:47.834 player number is lower
+2021-12-06 18:21:47.835 simulation le nombre choisi est :2305843009213693952
+2021-12-06 18:21:47.835 player number is greater
+2021-12-06 18:21:47.835 simulation le nombre choisi est :-1152921504606846976
+2021-12-06 18:21:47.835 player number is lower
+2021-12-06 18:21:47.835 simulation le nombre choisi est :576460752303423488
+2021-12-06 18:21:47.836 player number is greater
+2021-12-06 18:21:47.836 simulation le nombre choisi est :-288230376151711744
+2021-12-06 18:21:47.836 player number is lower
+2021-12-06 18:21:47.836 simulation le nombre choisi est :144115188075855872
+2021-12-06 18:21:47.837 player number is greater
+2021-12-06 18:21:47.837 simulation le nombre choisi est :-72057594037927936
+2021-12-06 18:21:47.837 player number is lower
+2021-12-06 18:21:47.837 simulation le nombre choisi est :36028797018963968
+2021-12-06 18:21:47.838 player number is greater
+2021-12-06 18:21:47.838 simulation le nombre choisi est :-18014398509481984
+2021-12-06 18:21:47.838 player number is lower
+2021-12-06 18:21:47.838 simulation le nombre choisi est :9007199254740992
+2021-12-06 18:21:47.838 player number is greater
+2021-12-06 18:21:47.839 simulation le nombre choisi est :-4503599627370496
+2021-12-06 18:21:47.839 player number is lower
+2021-12-06 18:21:47.839 simulation le nombre choisi est :2251799813685248
+2021-12-06 18:21:47.839 player number is greater
+2021-12-06 18:21:47.840 simulation le nombre choisi est :-1125899906842624
+2021-12-06 18:21:47.840 player number is lower
+2021-12-06 18:21:47.840 simulation le nombre choisi est :562949953421312
+2021-12-06 18:21:47.840 player number is greater
+2021-12-06 18:21:47.840 simulation le nombre choisi est :-281474976710656
+2021-12-06 18:21:47.841 player number is lower
+2021-12-06 18:21:47.841 simulation le nombre choisi est :140737488355328
+2021-12-06 18:21:47.841 player number is greater
+2021-12-06 18:21:47.842 simulation le nombre choisi est :-70368744177664
+2021-12-06 18:21:47.842 player number is lower
+2021-12-06 18:21:47.842 simulation le nombre choisi est :35184372088832
+2021-12-06 18:21:47.843 player number is greater
+2021-12-06 18:21:47.843 simulation le nombre choisi est :-17592186044416
+2021-12-06 18:21:47.843 player number is lower
+2021-12-06 18:21:47.843 simulation le nombre choisi est :8796093022208
+2021-12-06 18:21:47.844 player number is greater
+2021-12-06 18:21:47.844 simulation le nombre choisi est :-4398046511104
+2021-12-06 18:21:47.844 player number is lower
+2021-12-06 18:21:47.844 simulation le nombre choisi est :2199023255552
+2021-12-06 18:21:47.845 player number is greater
+2021-12-06 18:21:47.845 simulation le nombre choisi est :-1099511627776
+2021-12-06 18:21:47.845 player number is lower
+2021-12-06 18:21:47.846 simulation le nombre choisi est :549755813888
+2021-12-06 18:21:47.846 player number is greater
+2021-12-06 18:21:47.846 simulation le nombre choisi est :-274877906944
+2021-12-06 18:21:47.847 player number is lower
+2021-12-06 18:21:47.847 simulation le nombre choisi est :137438953472
+2021-12-06 18:21:47.847 player number is greater
+2021-12-06 18:21:47.848 simulation le nombre choisi est :-68719476736
+2021-12-06 18:21:47.848 player number is lower
+2021-12-06 18:21:47.848 simulation le nombre choisi est :34359738368
+2021-12-06 18:21:47.848 player number is greater
+2021-12-06 18:21:47.849 simulation le nombre choisi est :-17179869184
+2021-12-06 18:21:47.849 player number is lower
+2021-12-06 18:21:47.849 simulation le nombre choisi est :8589934592
+2021-12-06 18:21:47.849 player number is greater
+2021-12-06 18:21:47.850 simulation le nombre choisi est :-4294967296
+2021-12-06 18:21:47.850 player number is lower
+2021-12-06 18:21:47.850 simulation le nombre choisi est :2147483648
+2021-12-06 18:21:47.850 player number is greater
+2021-12-06 18:21:47.851 simulation le nombre choisi est :-1073741824
+2021-12-06 18:21:47.851 player number is lower
+2021-12-06 18:21:47.851 simulation le nombre choisi est :536870912
+2021-12-06 18:21:47.851 player number is greater
+2021-12-06 18:21:47.852 simulation le nombre choisi est :-268435456
+2021-12-06 18:21:47.852 player number is lower
+2021-12-06 18:21:47.852 simulation le nombre choisi est :134217728
+2021-12-06 18:21:47.853 player number is greater
+2021-12-06 18:21:47.853 simulation le nombre choisi est :-67108864
+2021-12-06 18:21:47.853 player number is lower
+2021-12-06 18:21:47.853 simulation le nombre choisi est :33554432
+2021-12-06 18:21:47.853 player number is greater
+2021-12-06 18:21:47.854 simulation le nombre choisi est :-16777216
+2021-12-06 18:21:47.854 player number is lower
+2021-12-06 18:21:47.854 simulation le nombre choisi est :8388608
+2021-12-06 18:21:47.854 player number is greater
+2021-12-06 18:21:47.854 simulation le nombre choisi est :-4194304
+2021-12-06 18:21:47.855 player number is lower
+2021-12-06 18:21:47.855 simulation le nombre choisi est :2097152
+2021-12-06 18:21:47.855 player number is greater
+2021-12-06 18:21:47.856 simulation le nombre choisi est :-1048576
+2021-12-06 18:21:47.856 player number is lower
+2021-12-06 18:21:47.856 simulation le nombre choisi est :524288
+2021-12-06 18:21:47.856 player number is greater
+2021-12-06 18:21:47.856 simulation le nombre choisi est :-262144
+2021-12-06 18:21:47.857 player number is lower
+2021-12-06 18:21:47.857 simulation le nombre choisi est :131072
+2021-12-06 18:21:47.857 player number is greater
+2021-12-06 18:21:47.858 simulation le nombre choisi est :-65536
+2021-12-06 18:21:47.858 player number is lower
+2021-12-06 18:21:47.858 simulation le nombre choisi est :32768
+2021-12-06 18:21:47.858 player number is greater
+2021-12-06 18:21:47.858 simulation le nombre choisi est :-16384
+2021-12-06 18:21:47.859 player number is lower
+2021-12-06 18:21:47.859 simulation le nombre choisi est :8192
+2021-12-06 18:21:47.859 player number is greater
+2021-12-06 18:21:47.859 simulation le nombre choisi est :-4096
+2021-12-06 18:21:47.860 player number is lower
+2021-12-06 18:21:47.860 simulation le nombre choisi est :2048
+2021-12-06 18:21:47.860 player number is greater
+2021-12-06 18:21:47.860 simulation le nombre choisi est :-1024
+2021-12-06 18:21:47.861 player number is lower
+2021-12-06 18:21:47.861 simulation le nombre choisi est :512
+2021-12-06 18:21:47.861 player number is greater
+2021-12-06 18:21:47.861 simulation le nombre choisi est :-256
+2021-12-06 18:21:47.861 player number is lower
+2021-12-06 18:21:47.862 simulation le nombre choisi est :128
+2021-12-06 18:21:47.862 player number is greater
+2021-12-06 18:21:47.862 simulation le nombre choisi est :-64
+2021-12-06 18:21:47.862 player number is lower
+2021-12-06 18:21:47.862 simulation le nombre choisi est :32
+2021-12-06 18:21:47.862 player number is greater
+2021-12-06 18:21:47.863 simulation le nombre choisi est :-16
+2021-12-06 18:21:47.863 player number is lower
+2021-12-06 18:21:47.863 simulation le nombre choisi est :8
+2021-12-06 18:21:47.863 player number is lower
+2021-12-06 18:21:47.863 simulation le nombre choisi est :20
+2021-12-06 18:21:47.864 player number is lower
+2021-12-06 18:21:47.864 simulation le nombre choisi est :26
+2021-12-06 18:21:47.864 player number is lower
+2021-12-06 18:21:47.864 simulation le nombre choisi est :29
+2021-12-06 18:21:47.865 player number is greater
+2021-12-06 18:21:47.865 simulation le nombre choisi est :27
+2021-12-06 18:21:47.865 player number is lower
+2021-12-06 18:21:47.865 simulation le nombre choisi est :28
+2021-12-06 18:21:47.865 simulation well done
+2021-12-06 18:21:47.895 simulation 00:00.055
+2021-12-06 18:25:33.569 simulation le nombre choisi est :0
+le nombre choisi est :0
+2021-12-06 18:25:33.574 player number is lower
+number is lower
+2021-12-06 18:25:33.574 simulation le nombre choisi est :-4611686018427387904
+le nombre choisi est :-4611686018427387904
+2021-12-06 18:25:33.575 player number is lower
+number is lower
+2021-12-06 18:25:33.575 simulation le nombre choisi est :2305843009213693952
+le nombre choisi est :2305843009213693952
+2021-12-06 18:25:33.576 player number is greater
+number is greater
+2021-12-06 18:25:33.576 simulation le nombre choisi est :-1152921504606846976
+le nombre choisi est :-1152921504606846976
+2021-12-06 18:25:33.577 player number is lower
+number is lower
+2021-12-06 18:25:33.578 simulation le nombre choisi est :576460752303423488
+le nombre choisi est :576460752303423488
+2021-12-06 18:25:33.579 player number is greater
+number is greater
+2021-12-06 18:25:33.579 simulation le nombre choisi est :-288230376151711744
+le nombre choisi est :-288230376151711744
+2021-12-06 18:25:33.580 player number is lower
+number is lower
+2021-12-06 18:25:33.580 simulation le nombre choisi est :144115188075855872
+le nombre choisi est :144115188075855872
+2021-12-06 18:25:33.581 player number is greater
+number is greater
+2021-12-06 18:25:33.581 simulation le nombre choisi est :-72057594037927936
+le nombre choisi est :-72057594037927936
+2021-12-06 18:25:33.582 player number is lower
+number is lower
+2021-12-06 18:25:33.582 simulation le nombre choisi est :36028797018963968
+le nombre choisi est :36028797018963968
+2021-12-06 18:25:33.583 player number is greater
+number is greater
+2021-12-06 18:25:33.583 simulation le nombre choisi est :-18014398509481984
+le nombre choisi est :-18014398509481984
+2021-12-06 18:25:33.584 player number is lower
+number is lower
+2021-12-06 18:25:33.584 simulation le nombre choisi est :9007199254740992
+le nombre choisi est :9007199254740992
+2021-12-06 18:25:33.585 player number is greater
+number is greater
+2021-12-06 18:25:33.585 simulation le nombre choisi est :-4503599627370496
+le nombre choisi est :-4503599627370496
+2021-12-06 18:25:33.586 player number is lower
+number is lower
+2021-12-06 18:25:33.586 simulation le nombre choisi est :2251799813685248
+le nombre choisi est :2251799813685248
+2021-12-06 18:25:33.586 player number is greater
+number is greater
+2021-12-06 18:25:33.587 simulation le nombre choisi est :-1125899906842624
+le nombre choisi est :-1125899906842624
+2021-12-06 18:25:33.587 player number is lower
+number is lower
+2021-12-06 18:25:33.588 simulation le nombre choisi est :562949953421312
+le nombre choisi est :562949953421312
+2021-12-06 18:25:33.589 player number is greater
+number is greater
+2021-12-06 18:25:33.589 simulation le nombre choisi est :-281474976710656
+le nombre choisi est :-281474976710656
+2021-12-06 18:25:33.590 player number is lower
+number is lower
+2021-12-06 18:25:33.591 simulation le nombre choisi est :140737488355328
+le nombre choisi est :140737488355328
+2021-12-06 18:25:33.592 player number is greater
+number is greater
+2021-12-06 18:25:33.592 simulation le nombre choisi est :-70368744177664
+le nombre choisi est :-70368744177664
+2021-12-06 18:25:33.593 player number is lower
+number is lower
+2021-12-06 18:25:33.593 simulation le nombre choisi est :35184372088832
+le nombre choisi est :35184372088832
+2021-12-06 18:25:33.594 player number is greater
+number is greater
+2021-12-06 18:25:33.595 simulation le nombre choisi est :-17592186044416
+le nombre choisi est :-17592186044416
+2021-12-06 18:25:33.595 player number is lower
+number is lower
+2021-12-06 18:25:33.596 simulation le nombre choisi est :8796093022208
+le nombre choisi est :8796093022208
+2021-12-06 18:25:33.597 player number is greater
+number is greater
+2021-12-06 18:25:33.598 simulation le nombre choisi est :-4398046511104
+le nombre choisi est :-4398046511104
+2021-12-06 18:25:33.598 player number is lower
+number is lower
+2021-12-06 18:25:33.599 simulation le nombre choisi est :2199023255552
+le nombre choisi est :2199023255552
+2021-12-06 18:25:33.599 player number is greater
+number is greater
+2021-12-06 18:25:33.599 simulation le nombre choisi est :-1099511627776
+le nombre choisi est :-1099511627776
+2021-12-06 18:25:33.600 player number is lower
+number is lower
+2021-12-06 18:25:33.600 simulation le nombre choisi est :549755813888
+le nombre choisi est :549755813888
+2021-12-06 18:25:33.601 player number is greater
+number is greater
+2021-12-06 18:25:33.601 simulation le nombre choisi est :-274877906944
+le nombre choisi est :-274877906944
+2021-12-06 18:25:33.602 player number is lower
+number is lower
+2021-12-06 18:25:33.602 simulation le nombre choisi est :137438953472
+le nombre choisi est :137438953472
+2021-12-06 18:25:33.603 player number is greater
+number is greater
+2021-12-06 18:25:33.603 simulation le nombre choisi est :-68719476736
+le nombre choisi est :-68719476736
+2021-12-06 18:25:33.604 player number is lower
+number is lower
+2021-12-06 18:25:33.605 simulation le nombre choisi est :34359738368
+le nombre choisi est :34359738368
+2021-12-06 18:25:33.605 player number is greater
+number is greater
+2021-12-06 18:25:33.606 simulation le nombre choisi est :-17179869184
+le nombre choisi est :-17179869184
+2021-12-06 18:25:33.606 player number is lower
+number is lower
+2021-12-06 18:25:33.607 simulation le nombre choisi est :8589934592
+le nombre choisi est :8589934592
+2021-12-06 18:25:33.608 player number is greater
+number is greater
+2021-12-06 18:25:33.609 simulation le nombre choisi est :-4294967296
+le nombre choisi est :-4294967296
+2021-12-06 18:25:33.609 player number is lower
+number is lower
+2021-12-06 18:25:33.610 simulation le nombre choisi est :2147483648
+le nombre choisi est :2147483648
+2021-12-06 18:25:33.611 player number is greater
+number is greater
+2021-12-06 18:25:33.611 simulation le nombre choisi est :-1073741824
+le nombre choisi est :-1073741824
+2021-12-06 18:25:33.612 player number is lower
+number is lower
+2021-12-06 18:25:33.613 simulation le nombre choisi est :536870912
+le nombre choisi est :536870912
+2021-12-06 18:25:33.613 player number is greater
+number is greater
+2021-12-06 18:25:33.614 simulation le nombre choisi est :-268435456
+le nombre choisi est :-268435456
+2021-12-06 18:25:33.614 player number is lower
+number is lower
+2021-12-06 18:25:33.614 simulation le nombre choisi est :134217728
+le nombre choisi est :134217728
+2021-12-06 18:25:33.615 player number is greater
+number is greater
+2021-12-06 18:25:33.616 simulation le nombre choisi est :-67108864
+le nombre choisi est :-67108864
+2021-12-06 18:25:33.616 player number is lower
+number is lower
+2021-12-06 18:25:33.617 simulation le nombre choisi est :33554432
+le nombre choisi est :33554432
+2021-12-06 18:25:33.617 player number is greater
+number is greater
+2021-12-06 18:25:33.618 simulation le nombre choisi est :-16777216
+le nombre choisi est :-16777216
+2021-12-06 18:25:33.618 player number is lower
+number is lower
+2021-12-06 18:25:33.619 simulation le nombre choisi est :8388608
+le nombre choisi est :8388608
+2021-12-06 18:25:33.619 player number is greater
+number is greater
+2021-12-06 18:25:33.620 simulation le nombre choisi est :-4194304
+le nombre choisi est :-4194304
+2021-12-06 18:25:33.620 player number is lower
+number is lower
+2021-12-06 18:25:33.621 simulation le nombre choisi est :2097152
+le nombre choisi est :2097152
+2021-12-06 18:25:33.621 player number is greater
+number is greater
+2021-12-06 18:25:33.621 simulation le nombre choisi est :-1048576
+le nombre choisi est :-1048576
+2021-12-06 18:25:33.622 player number is lower
+number is lower
+2021-12-06 18:25:33.622 simulation le nombre choisi est :524288
+le nombre choisi est :524288
+2021-12-06 18:25:33.623 player number is greater
+number is greater
+2021-12-06 18:25:33.623 simulation le nombre choisi est :-262144
+le nombre choisi est :-262144
+2021-12-06 18:25:33.624 player number is lower
+number is lower
+2021-12-06 18:25:33.625 simulation le nombre choisi est :131072
+le nombre choisi est :131072
+2021-12-06 18:25:33.626 player number is greater
+number is greater
+2021-12-06 18:25:33.627 simulation le nombre choisi est :-65536
+le nombre choisi est :-65536
+2021-12-06 18:25:33.628 player number is lower
+number is lower
+2021-12-06 18:25:33.628 simulation le nombre choisi est :32768
+le nombre choisi est :32768
+2021-12-06 18:25:33.629 player number is greater
+number is greater
+2021-12-06 18:25:33.629 simulation le nombre choisi est :-16384
+le nombre choisi est :-16384
+2021-12-06 18:25:33.629 player number is lower
+number is lower
+2021-12-06 18:25:33.630 simulation le nombre choisi est :8192
+le nombre choisi est :8192
+2021-12-06 18:25:33.630 player number is greater
+number is greater
+2021-12-06 18:25:33.630 simulation le nombre choisi est :-4096
+le nombre choisi est :-4096
+2021-12-06 18:25:33.631 player number is lower
+number is lower
+2021-12-06 18:25:33.631 simulation le nombre choisi est :2048
+le nombre choisi est :2048
+2021-12-06 18:25:33.632 player number is greater
+number is greater
+2021-12-06 18:25:33.632 simulation le nombre choisi est :-1024
+le nombre choisi est :-1024
+2021-12-06 18:25:33.632 player number is lower
+number is lower
+2021-12-06 18:25:33.633 simulation le nombre choisi est :512
+le nombre choisi est :512
+2021-12-06 18:25:33.633 player number is greater
+number is greater
+2021-12-06 18:25:33.634 simulation le nombre choisi est :-256
+le nombre choisi est :-256
+2021-12-06 18:25:33.634 player number is lower
+number is lower
+2021-12-06 18:25:33.634 simulation le nombre choisi est :128
+le nombre choisi est :128
+2021-12-06 18:25:33.635 player number is greater
+number is greater
+2021-12-06 18:25:33.635 simulation le nombre choisi est :-64
+le nombre choisi est :-64
+2021-12-06 18:25:33.636 player number is lower
+number is lower
+2021-12-06 18:25:33.636 simulation le nombre choisi est :32
+le nombre choisi est :32
+2021-12-06 18:25:33.636 player number is greater
+number is greater
+2021-12-06 18:25:33.637 simulation le nombre choisi est :-16
+le nombre choisi est :-16
+2021-12-06 18:25:33.637 player number is lower
+number is lower
+2021-12-06 18:25:33.637 simulation le nombre choisi est :8
+le nombre choisi est :8
+2021-12-06 18:25:33.638 player number is lower
+number is lower
+2021-12-06 18:25:33.638 simulation le nombre choisi est :20
+le nombre choisi est :20
+2021-12-06 18:25:33.639 player number is greater
+number is greater
+2021-12-06 18:25:33.639 simulation le nombre choisi est :14
+le nombre choisi est :14
+2021-12-06 18:25:33.640 player number is greater
+number is greater
+2021-12-06 18:25:33.641 simulation le nombre choisi est :11
+le nombre choisi est :11
+2021-12-06 18:25:33.641 player number is greater
+number is greater
+2021-12-06 18:25:33.641 simulation le nombre choisi est :9
+le nombre choisi est :9
+2021-12-06 18:25:33.642 simulation well done
+well done
+2021-12-06 18:25:33.685 simulation 00:00.091
+00:00.091
+2021-12-06 18:26:26.608 simulation le nombre choisi est :0
+2021-12-06 18:26:26.616 player number is lower
+2021-12-06 18:26:26.617 simulation le nombre choisi est :-4611686018427387904
+2021-12-06 18:26:26.618 player number is lower
+2021-12-06 18:26:26.619 simulation le nombre choisi est :2305843009213693952
+2021-12-06 18:26:26.619 player number is greater
+2021-12-06 18:26:26.620 simulation le nombre choisi est :-1152921504606846976
+2021-12-06 18:26:26.620 player number is lower
+2021-12-06 18:26:26.621 simulation le nombre choisi est :576460752303423488
+2021-12-06 18:26:26.621 player number is greater
+2021-12-06 18:26:26.622 simulation le nombre choisi est :-288230376151711744
+2021-12-06 18:26:26.622 player number is lower
+2021-12-06 18:26:26.623 simulation le nombre choisi est :144115188075855872
+2021-12-06 18:26:26.624 player number is greater
+2021-12-06 18:26:26.624 simulation le nombre choisi est :-72057594037927936
+2021-12-06 18:26:26.624 player number is lower
+2021-12-06 18:26:26.625 simulation le nombre choisi est :36028797018963968
+2021-12-06 18:26:26.625 player number is greater
+2021-12-06 18:26:26.626 simulation le nombre choisi est :-18014398509481984
+2021-12-06 18:26:26.626 player number is lower
+2021-12-06 18:26:26.627 simulation le nombre choisi est :9007199254740992
+2021-12-06 18:26:26.627 player number is greater
+2021-12-06 18:26:26.628 simulation le nombre choisi est :-4503599627370496
+2021-12-06 18:26:26.628 player number is lower
+2021-12-06 18:26:26.629 simulation le nombre choisi est :2251799813685248
+2021-12-06 18:26:26.629 player number is greater
+2021-12-06 18:26:26.630 simulation le nombre choisi est :-1125899906842624
+2021-12-06 18:26:26.630 player number is lower
+2021-12-06 18:26:26.630 simulation le nombre choisi est :562949953421312
+2021-12-06 18:26:26.631 player number is greater
+2021-12-06 18:26:26.632 simulation le nombre choisi est :-281474976710656
+2021-12-06 18:26:26.632 player number is lower
+2021-12-06 18:26:26.633 simulation le nombre choisi est :140737488355328
+2021-12-06 18:26:26.633 player number is greater
+2021-12-06 18:26:26.634 simulation le nombre choisi est :-70368744177664
+2021-12-06 18:26:26.634 player number is lower
+2021-12-06 18:26:26.634 simulation le nombre choisi est :35184372088832
+2021-12-06 18:26:26.635 player number is greater
+2021-12-06 18:26:26.635 simulation le nombre choisi est :-17592186044416
+2021-12-06 18:26:26.636 player number is lower
+2021-12-06 18:26:26.636 simulation le nombre choisi est :8796093022208
+2021-12-06 18:26:26.637 player number is greater
+2021-12-06 18:26:26.638 simulation le nombre choisi est :-4398046511104
+2021-12-06 18:26:26.639 player number is lower
+2021-12-06 18:26:26.640 simulation le nombre choisi est :2199023255552
+2021-12-06 18:26:26.640 player number is greater
+2021-12-06 18:26:26.641 simulation le nombre choisi est :-1099511627776
+2021-12-06 18:26:26.642 player number is lower
+2021-12-06 18:26:26.642 simulation le nombre choisi est :549755813888
+2021-12-06 18:26:26.642 player number is greater
+2021-12-06 18:26:26.643 simulation le nombre choisi est :-274877906944
+2021-12-06 18:26:26.644 player number is lower
+2021-12-06 18:26:26.644 simulation le nombre choisi est :137438953472
+2021-12-06 18:26:26.645 player number is greater
+2021-12-06 18:26:26.645 simulation le nombre choisi est :-68719476736
+2021-12-06 18:26:26.645 player number is lower
+2021-12-06 18:26:26.646 simulation le nombre choisi est :34359738368
+2021-12-06 18:26:26.646 player number is greater
+2021-12-06 18:26:26.646 simulation le nombre choisi est :-17179869184
+2021-12-06 18:26:26.647 player number is lower
+2021-12-06 18:26:26.647 simulation le nombre choisi est :8589934592
+2021-12-06 18:26:26.648 player number is greater
+2021-12-06 18:26:26.648 simulation le nombre choisi est :-4294967296
+2021-12-06 18:26:26.649 player number is lower
+2021-12-06 18:26:26.649 simulation le nombre choisi est :2147483648
+2021-12-06 18:26:26.649 player number is greater
+2021-12-06 18:26:26.650 simulation le nombre choisi est :-1073741824
+2021-12-06 18:26:26.650 player number is lower
+2021-12-06 18:26:26.650 simulation le nombre choisi est :536870912
+2021-12-06 18:26:26.651 player number is greater
+2021-12-06 18:26:26.651 simulation le nombre choisi est :-268435456
+2021-12-06 18:26:26.651 player number is lower
+2021-12-06 18:26:26.652 simulation le nombre choisi est :134217728
+2021-12-06 18:26:26.652 player number is greater
+2021-12-06 18:26:26.653 simulation le nombre choisi est :-67108864
+2021-12-06 18:26:26.653 player number is lower
+2021-12-06 18:26:26.654 simulation le nombre choisi est :33554432
+2021-12-06 18:26:26.654 player number is greater
+2021-12-06 18:26:26.655 simulation le nombre choisi est :-16777216
+2021-12-06 18:26:26.655 player number is lower
+2021-12-06 18:26:26.656 simulation le nombre choisi est :8388608
+2021-12-06 18:26:26.656 player number is greater
+2021-12-06 18:26:26.656 simulation le nombre choisi est :-4194304
+2021-12-06 18:26:26.657 player number is lower
+2021-12-06 18:26:26.657 simulation le nombre choisi est :2097152
+2021-12-06 18:26:26.658 player number is greater
+2021-12-06 18:26:26.658 simulation le nombre choisi est :-1048576
+2021-12-06 18:26:26.659 player number is lower
+2021-12-06 18:26:26.660 simulation le nombre choisi est :524288
+2021-12-06 18:26:26.661 player number is greater
+2021-12-06 18:26:26.661 simulation le nombre choisi est :-262144
+2021-12-06 18:26:26.661 player number is lower
+2021-12-06 18:26:26.662 simulation le nombre choisi est :131072
+2021-12-06 18:26:26.662 player number is greater
+2021-12-06 18:26:26.662 simulation le nombre choisi est :-65536
+2021-12-06 18:26:26.662 player number is lower
+2021-12-06 18:26:26.663 simulation le nombre choisi est :32768
+2021-12-06 18:26:26.663 player number is greater
+2021-12-06 18:26:26.664 simulation le nombre choisi est :-16384
+2021-12-06 18:26:26.664 player number is lower
+2021-12-06 18:26:26.664 simulation le nombre choisi est :8192
+2021-12-06 18:26:26.665 player number is greater
+2021-12-06 18:26:26.665 simulation le nombre choisi est :-4096
+2021-12-06 18:26:26.665 player number is lower
+2021-12-06 18:26:26.666 simulation le nombre choisi est :2048
+2021-12-06 18:26:26.666 player number is greater
+2021-12-06 18:26:26.666 simulation le nombre choisi est :-1024
+2021-12-06 18:26:26.667 player number is lower
+2021-12-06 18:26:26.667 simulation le nombre choisi est :512
+2021-12-06 18:26:26.668 player number is greater
+2021-12-06 18:26:26.668 simulation le nombre choisi est :-256
+2021-12-06 18:26:26.669 player number is lower
+2021-12-06 18:26:26.669 simulation le nombre choisi est :128
+2021-12-06 18:26:26.670 player number is greater
+2021-12-06 18:26:26.670 simulation le nombre choisi est :-64
+2021-12-06 18:26:26.671 player number is lower
+2021-12-06 18:26:26.671 simulation le nombre choisi est :32
+2021-12-06 18:26:26.672 player number is greater
+2021-12-06 18:26:26.672 simulation le nombre choisi est :-16
+2021-12-06 18:26:26.672 player number is lower
+2021-12-06 18:26:26.673 simulation le nombre choisi est :8
+2021-12-06 18:26:26.673 player number is greater
+2021-12-06 18:26:26.674 simulation le nombre choisi est :-4
+2021-12-06 18:26:26.674 player number is lower
+2021-12-06 18:26:26.674 simulation le nombre choisi est :2
+2021-12-06 18:26:26.675 player number is greater
+2021-12-06 18:26:26.675 simulation le nombre choisi est :-1
+2021-12-06 18:26:26.676 player number is lower
+2021-12-06 18:26:26.677 simulation le nombre choisi est :0
+2021-12-06 18:26:26.677 player number is lower
+2021-12-06 18:26:26.678 simulation le nombre choisi est :1
+2021-12-06 18:26:26.678 simulation well done
+2021-12-06 18:26:26.733 simulation 00:00.101
