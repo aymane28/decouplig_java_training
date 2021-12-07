@@ -17,7 +17,7 @@ public class LoggerFactory {
         Logger consoleLogger = new FileLogger();//objet de type logger, type abstrait
 
         return new ContextualLogger(name, consoleLogger);*/
-        
+
         /*
         Logger log = new FileLogger();//objet de type logger, type abstrait
         Logger logg = new ConsoleLogger();

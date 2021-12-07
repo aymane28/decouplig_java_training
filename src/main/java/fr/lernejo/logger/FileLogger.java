@@ -12,7 +12,7 @@ public class FileLogger implements Logger {
     private final Path path;
 
     public FileLogger() {
-        path = Paths.get("C:\\Users\\aymane\\decoupling_java\\decouplig_java_training\\filelogger.txt").toAbsolutePath();
+        path = Paths.get("filelogger.txt").toAbsolutePath();
     }
 
     public void log(String message) {
